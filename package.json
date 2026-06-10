@@ -1,0 +1,12 @@
+{
+  "name": "bajaj-round1-graph-api",
+  "version": "1.0.0",
+  "description": "SIT Full Stack Engineering Challenge — Round 1. REST API + Frontend for graph hierarchy processing.",
+  "private": true,
+  "scripts": {
+    "dev": "npx vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "author": "Aryan Sheladia",
+  "license": "MIT"
+}
